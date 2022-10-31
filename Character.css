@@ -1,0 +1,36 @@
+.nav{
+	list-style:none;
+	display:flex;
+}
+.nav li{
+	margin-left:50px;
+}
+.nav a{
+	color:yellow;
+}
+.nav a:hover{
+	background-color:rgba(60, 207, 160, 0.97);
+	padding: 12px 24px;
+}
+
+p{
+	font-family:Lucida Sans Unicode;
+	color:white;
+}
+h3{
+	font-family:Lucida Sans Unicode;
+	color:rgba(68, 126, 66, 0.96);
+	text-decoration:underline;
+}
+ul{
+font-family:Lucida Sans Unicode;
+}
+ol{
+font-family:Lucida Sans Unicode;
+}
+
+body{
+	background:url("https://images.pexels.com/photos/5598329/pexels-photo-5598329.jpeg?auto=compress&cs=tinysrgb&w=600");
+	background-size:cover;
+	text-align:center;
+}

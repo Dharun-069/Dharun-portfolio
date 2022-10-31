@@ -1,0 +1,37 @@
+
+body{
+	background:url("https://images.pexels.com/photos/5598296/pexels-photo-5598296.jpeg?auto=compress&cs=tinysrgb&w=600");
+	background-size:cover;
+	
+}
+.nav{
+	list-style:none;
+	display:flex;
+}
+.nav li{
+	margin-left:50px;
+}
+.nav a{
+	color:rgba(108, 248, 250, 0.95);
+}
+.nav a:hover{
+	background-color:rgba(60, 207, 160, 0.97);
+	padding: 12px 24px;
+}
+
+p{
+	font-family:Lucida Sans Unicode;
+}
+h2{
+	font-family:Lucida Sans Unicode;
+	color:rgba(108, 248, 250, 0.95);
+	font-size:40px;
+}
+ul{
+font-family:Lucida Sans Unicode;
+color:white;
+}
+ol{
+font-family:Lucida Sans Unicode;
+color:white;
+}

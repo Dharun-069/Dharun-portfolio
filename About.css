@@ -1,0 +1,42 @@
+
+body{
+	background:url(about1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.nav{
+	list-style:none;
+	display:flex;
+}
+.nav li{
+	margin-left:50px;
+}
+.nav a{
+	color:white;
+}
+.nav a:hover{
+	background-color:rgba(60, 207, 160, 0.97);
+	padding: 12px 24px;
+}
+
+
+#thank{
+	color:red;
+	text-align:center;
+}
+p{
+	font-family:Lucida Sans Unicode;
+	font-size:20px;
+	color:white;
+}
+h3{
+	font-family:Lucida Sans Unicode;
+	color:rgba(252, 11, 222, 0.8);
+	text-decoration: underline;
+}
+ul{
+font-family:Lucida Sans Unicode;
+}
+ol{
+font-family:Lucida Sans Unicode;
+}
